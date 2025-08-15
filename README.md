@@ -8,5 +8,5 @@ This project simulates a process of "Data → Encode → Modulation (BPSK) → C
 - **Decoder**: Sum-Product (SPA) with **φ-function**  
 - **Iteration**: Iteration is default to be 20 times
 
-#### Example Output
+#### Performance
 
