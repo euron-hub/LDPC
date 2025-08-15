@@ -9,4 +9,6 @@ This project simulates a process of "Data → Encode → Modulation (BPSK) → C
 - **Iteration**: Iteration is default to be 20 times
 
 #### Performance
+<img width="1387" height="567" alt="performance" src="https://github.com/user-attachments/assets/37384471-05ed-4a54-895b-8227ea993f4e" />
+
 
